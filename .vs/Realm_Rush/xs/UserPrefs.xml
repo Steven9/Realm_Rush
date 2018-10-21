@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9C7EC565-5845-02C7-E9E8-B88C20B7C975}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="22" Column="10" />
+      <File FileName="Assets/Scripts/Waypoint.cs" Line="39" Column="17" />
+      <File FileName="Assets/Scripts/EnemyDamage.cs" Line="15" Column="6" NotebookId="1" />
+      <File FileName="Assets/Scripts/Tower.cs" Line="12" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/PathFinder.cs" Line="9" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="25" Column="21" NotebookId="1" />
+      <File FileName="Assets/Scripts/TowerFactory.cs" Line="24" Column="44" NotebookId="1" />
+      <File FileName="Assets/PlayerHealth.cs" Line="15" Column="6" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
